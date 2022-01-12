@@ -7,11 +7,11 @@ chrome://dino/ 🦖
 
 ## Cambiar la apariencia del dinosaurio 🦖:
 
-- Mario
-- Batman
-- Yoshi
-- Jocker
-- Default
+![Mario](offline-sprite-1x-mario.png)
+![Batman](batman1x.png)
+![Yoshi](yoshi.png)
+![Joker](joker1x.png)
+![Default](sprite.png)
 
 ------------------------------------------------------------------------------
 
